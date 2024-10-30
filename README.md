@@ -10,7 +10,7 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 
----
+<br/>
 
 ![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
 
@@ -21,5 +21,3 @@
 <br/>
 
 <img src="https://skillicons.dev/icons?i=all">
-
----
