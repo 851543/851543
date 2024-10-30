@@ -12,11 +12,11 @@
 
 <br/>
 
-![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
+![阿俊 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
 
 <br/>
 
-![hyochan github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan)
+![阿俊 github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan)
 
 <br/>
 
