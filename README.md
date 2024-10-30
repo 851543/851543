@@ -4,7 +4,7 @@
 
 <br/>
 
-![AJ's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
+![阿俊's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 
 <br/>
 
