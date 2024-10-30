@@ -14,6 +14,5 @@
 
 <img src="https://skillicons.dev/icons?i=all">
 
-![阿俊 github-trophies](https://www.bing.com/images/search?q=%e8%9f%92%e8%9b%87+html&qpvt=%e8%9f%92%e8%9b%87html&form=IGRE&first=1)
 
 
