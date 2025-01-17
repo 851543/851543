@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /> Hi There 🖐️  Java is the world's best scripting language. c
+# <img src="image/Blue Heart.png" alt="Blue Heart" width="25" height="25" /> Hi There 🖐️  Java is the world's best scripting language. c
 
 <br/>
 
