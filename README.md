@@ -19,8 +19,6 @@ Java · Python · AI · Linux · Docker · Vue · Spring Boot
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
 ### 🚀 Focus
 
 - Backend Engineering
@@ -29,16 +27,12 @@ Java · Python · AI · Linux · Docker · Vue · Spring Boot
 - Financial Systems
 - Workflow Automation
 
----
-
 ### 📌 Core Projects
 
 - CRM OpenAPI SDK
 - Credit Risk Engine
 - AI Workflow Service
 - FastAPI Admin Platform
-
----
 
 <p>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=851543&show_icons=true&hide_border=true"/>
